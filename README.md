@@ -1,3 +1,3 @@
 # AKI-Projekt-
 
-App Dash mit Kontostand zum testen
+App Dash mit Kontostand zum testen + requirements.txt hochgeladen
